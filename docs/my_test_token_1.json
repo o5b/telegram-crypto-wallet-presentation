@@ -1,0 +1,12 @@
+{
+    "name": "MyTestToken1",
+    "symbol": "MTT1",
+    "description": "My Test Token 1",
+    "image": "https://raw.githubusercontent.com/o5b/telegram-crypto-wallet-presentation/master/docs/imeges/MyTestToken1.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+}
