@@ -1,0 +1,12 @@
+{
+    "name": "MyTestTokenX2",
+    "symbol": "MTX2",
+    "description": "My Test Token X 2",
+    "image": "https://raw.githubusercontent.com/o5b/telegram-crypto-wallet-presentation/master/docs/imeges/bsc-presentation.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+}
